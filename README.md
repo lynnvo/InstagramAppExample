@@ -1,5 +1,5 @@
 Instagram Example
 ===========
 ### Lynn Vo ###
-### COGS 121 SPa14 ###
+### COGS 121 SP14 ###
 
